@@ -102,7 +102,6 @@ def reset():
     food.goto(food_pos)  
     game_state()
 
-
 # set up screen
 screen = turtle.Screen()
 screen.setup(WIDTH, HEIGHT)  
